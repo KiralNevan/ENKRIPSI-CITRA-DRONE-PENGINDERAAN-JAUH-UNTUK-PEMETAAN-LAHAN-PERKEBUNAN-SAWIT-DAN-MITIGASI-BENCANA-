@@ -1,0 +1,11 @@
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
+pillow>=10.0
+scikit-learn>=1.4
+streamlit>=1.40
+pycryptodome>=3.20
+pytest>=8.0
+tqdm>=4.66
+numba>=0.60
+PyYAML>=6.0
