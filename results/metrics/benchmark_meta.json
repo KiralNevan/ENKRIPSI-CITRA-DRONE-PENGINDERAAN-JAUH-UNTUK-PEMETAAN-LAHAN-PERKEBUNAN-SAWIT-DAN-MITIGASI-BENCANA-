@@ -1,0 +1,17 @@
+{
+  "key_hex": "000102030405060708090a0b0c0d0e0f",
+  "iv_hex": "101112131415161718191a1b1c1d1e1f",
+  "images": [
+    "lena",
+    "mandrill"
+  ],
+  "algorithms": [
+    "AES standar",
+    "S-box GA"
+  ],
+  "modes": [
+    "ECB",
+    "CBC"
+  ],
+  "timestamp": "2026-11-27 08:24:06"
+}
