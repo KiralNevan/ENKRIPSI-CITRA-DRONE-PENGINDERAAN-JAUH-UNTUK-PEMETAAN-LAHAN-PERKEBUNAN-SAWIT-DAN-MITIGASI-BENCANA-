@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+streamlit.log
+*.nbi
+*.nbc
+.DS_Store
+Thumbs.db
