@@ -8,3 +8,6 @@ venv/
 *.nbc
 .DS_Store
 Thumbs.db
+DRAF_LAPORAN_*.docx
+DRAF_LAPORAN_*.docx.md
+report_preview.pdf
