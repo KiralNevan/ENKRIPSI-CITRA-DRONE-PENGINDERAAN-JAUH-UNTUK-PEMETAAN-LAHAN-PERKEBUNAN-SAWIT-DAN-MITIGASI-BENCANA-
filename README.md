@@ -4,6 +4,13 @@ Proyek akhir mata kuliah Kriptografi: membangun S-box 16×16 dengan algoritma
 genetika (pendekatan machine learning), menggantikan S-box AES-128, lalu
 menguji enkripsi/dekripsi citra Lena, Mandrill, dan citra penginderaan jauh.
 
+## Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KiralNevan/ENKRIPSI-CITRA-DRONE-PENGINDERAAN-JAUH-UNTUK-PEMETAAN-LAHAN-PERKEBUNAN-SAWIT-DAN-MITIGASI-BENCANA-/blob/main/notebooks/ProjekAkhir_Kriptografi.ipynb)
+
+Notebook menjalankan demo S-box, validasi AES-128 (FIPS-197), enkripsi/dekripsi
+citra, dan menampilkan hasil benchmark. Gunakan `Runtime > Run all`.
+
 ## Fitur
 
 - S-box 16×16 bijective dan balanced, dibangun dengan GA (permutasi 0–255).
